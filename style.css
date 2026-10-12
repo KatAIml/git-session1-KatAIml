@@ -2,7 +2,7 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   background: #f7f7f7;
-  color: #222;
+  color: #724747;
 }
 header, main {
   max-width: 800px;
@@ -10,12 +10,12 @@ header, main {
   padding: 24px;
 }
 header {
-  background: white;
+  background: rgb(73, 26, 26);
   border-bottom: 1px solid #ddd;
 }
 section {
-  background: white;
+  background: rgb(75, 39, 39);
   margin-top: 20px;
   padding: 20px;
-  border: 1px solid #e3e3e3;
+  border: 1px solid #725252;
 }
