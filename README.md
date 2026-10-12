@@ -1,4 +1,4 @@
-# Git Session 1
+# Git Session 1 (modif)
 
 **Name:** Khalil Berjaoui
 **GitHub:** KatAIml
